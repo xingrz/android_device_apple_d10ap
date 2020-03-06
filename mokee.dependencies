@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_apple_t8010-common",
+    "target_path": "device/apple/t8010-common"
+  }
+]
